@@ -1,0 +1,3 @@
+﻿  Mang2c.cpp
+E:\IDE\Vs Studio\Wecode_Mang2c\Mang2c\Mang2c.cpp(107,48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Mang2c.vcxproj -> E:\IDE\Vs Studio\Wecode_Mang2c\Debug\Mang2c.exe
