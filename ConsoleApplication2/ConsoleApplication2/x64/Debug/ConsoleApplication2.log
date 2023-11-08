@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+E:\IDE\Vs Studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\IDE\Vs Studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(79,70): error C2664: 'int getInteger(char *)': cannot convert argument 1 from 'const char [50]' to 'char *'
+E:\IDE\Vs Studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(79,19): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+E:\IDE\Vs Studio\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(8,5): message : see declaration of 'getInteger'
