@@ -1,0 +1,5 @@
+﻿  Wecode loop function.cpp
+E:\IDE\Vs Studio\Wecode loop function\Wecode loop function\Wecode loop function.cpp(214,9): warning C4101: 'm': unreferenced local variable
+E:\IDE\Vs Studio\Wecode loop function\Wecode loop function\Wecode loop function.cpp(214,17): warning C4101: 'a': unreferenced local variable
+E:\IDE\Vs Studio\Wecode loop function\Wecode loop function\Wecode loop function.cpp(214,27): warning C4101: 'max': unreferenced local variable
+  Wecode loop function.vcxproj -> E:\IDE\Vs Studio\Wecode loop function\Debug\Wecode loop function.exe

@@ -1,0 +1,5 @@
+﻿  ThiCK.cpp
+E:\IDE\Vs Studio\ThiCK\ThiCK\ThiCK.cpp(278,17): error C2087: 'a': missing subscript
+E:\IDE\Vs Studio\ThiCK\ThiCK\ThiCK.cpp(289,19): error C2664: 'int f(int [][],int,int)': cannot convert argument 1 from 'int [3][3]' to 'int [][]'
+E:\IDE\Vs Studio\ThiCK\ThiCK\ThiCK.cpp(289,12): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+E:\IDE\Vs Studio\ThiCK\ThiCK\ThiCK.cpp(278,5): message : see declaration of 'f'
